@@ -19,10 +19,10 @@ entry_points:
 
       min_price:
         description: Minimum accepted price
-        type: float
+        type: int
 
       max_price:
         description: Maximum accepted price
-        type: float
+        type: int
 
     command: "pytest . -vv --csv {csv} --ref {ref} --kl_threshold {kl_threshold} --min_price {min_price} --max_price {max_price}"
