@@ -1,6 +1,6 @@
 # Submission Details
-GItHub repo: https://github.com/A-Giordano/build-ml-pipeline-for-short-term-rental-prices.git
-wandb project: https://wandb.ai/a_giordano/nyc_airbnb
+- GItHub repo: https://github.com/A-Giordano/build-ml-pipeline-for-short-term-rental-prices.git
+- wandb project: https://wandb.ai/a_giordano/nyc_airbnb
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
